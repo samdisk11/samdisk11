@@ -1,6 +1,8 @@
 ### Welcome!
 Owner of Pootis Network (gaming community since 2011).
+
 Decent gLua/Lua/Python/PHP programmer.
+
 📫 How to reach me:
   - Steam: https://steamcommunity.com/profiles/thexkey/
   - Discord: ! ! ! thexkey#7066 (userid 217679236251516928)
