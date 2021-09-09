@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**samdisk11/samdisk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome!
+Owner of Pootis Network (gaming community since 2011).
+Decent gLua/Lua/Python/PHP programmer.
+📫 How to reach me:
+  - Steam: https://steamcommunity.com/profiles/thexkey/
+  - Discord: ! ! ! thexkey#7066 (userid 217679236251516928)
+  - Youtube: https://www.youtube.com/channel/UCoxn14byNGbrHuH9zCAGjlA
+🔭 I’m currently working on:
+  - Pootis Network related stuff (website/plugins/addons/etc)
+  - My YouTube channel
