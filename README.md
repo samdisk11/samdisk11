@@ -1,4 +1,7 @@
 ### Welcome!
+
+<img src="./its_me.png" align="right"/>
+
 Owner of Pootis Network (gaming community since 2011).
 
 Decent gLua/Lua/Python/PHP programmer.
