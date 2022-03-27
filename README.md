@@ -12,5 +12,4 @@ Decent gLua/Lua/Python/PHP programmer.
   - Youtube: https://www.youtube.com/channel/UCoxn14byNGbrHuH9zCAGjlA
  
 🔭 I’m currently working on:
-  - Pootis Network related stuff (website/plugins/addons/etc)
-  - My YouTube channel
+  - Nothing at the moment.
